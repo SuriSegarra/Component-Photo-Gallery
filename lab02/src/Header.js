@@ -4,7 +4,7 @@ export default class Header extends Component {
         return (
 
             <div>
-                <h1>My Header</h1>
+                <h1>Animals With Horns</h1>
             </div>
             );
     }
